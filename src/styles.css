@@ -2,12 +2,14 @@
   --text-color: black;
   --link-color: blue;
   --background-color: #ffffff;
+  --border-color: black;
 }
 
 .dark-theme {
   --text-color: #ffffff;
   --link-color: #4dabf7;
   --background-color: #121212;
+  --border-color: #ffffff;
 }
 
 * {

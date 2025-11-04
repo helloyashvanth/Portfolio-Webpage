@@ -21,7 +21,7 @@
     display: block;
     text-align: center;
     gap: 10px;
-    border: 2px solid black;
+    border: 2px solid var(--border-color);
     border-radius: 5px;
     width: 275px;
     height: 280px;
@@ -50,7 +50,7 @@
 }
 
 .projects-section .p-cells .p-cell a {
-    border: solid black 1px;
+    border: 2px solid var(--border-color);
     padding: 5px 10px;
     border-radius: 5px;
 }
