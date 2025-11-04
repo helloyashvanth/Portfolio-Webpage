@@ -86,4 +86,14 @@ nav .right button i {
         color: var(--text-color);
         padding: 0;
     }
+
+       nav .right button {
+        background-color: transparent;
+        color: var(--text-color);
+        padding: 0;
+    }
+
+      nav .right button span {
+        display: none;
+    }
 }
